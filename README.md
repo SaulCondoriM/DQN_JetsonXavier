@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de Control Inteligente DQN Distribuido
 ## Informe Técnico - PC (Simulador) + Jetson Xavier (Agente de IA)
 
@@ -841,3 +842,6 @@ Este sistema demuestra la **implementación exitosa de un DQN distribuido** con 
 La arquitectura es **extensible y modular**, facilitando mejoras futuras tanto en algoritmos de IA como en complejidad del entorno de simulación.
 
 **Desarrollado en Diciembre 2025** - Proyecto de Control Inteligente con Deep Reinforcement Learning
+=======
+# DQN_JetsonXavier
+>>>>>>> 374e4ed686d0dbdf3cf0f937fa4f373385274a53
